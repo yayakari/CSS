@@ -1,0 +1,11 @@
+body {
+    width: 100%;
+}
+
+h2,h3 {
+    color: #50c6db;
+}
+
+hr {
+    border: 1px solid black;
+}

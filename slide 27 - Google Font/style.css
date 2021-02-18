@@ -1,0 +1,14 @@
+@font-face{
+    font-family:"Gloria Hallelujah" ;
+    src: url([https://fonts.google.com/specimen/Gloria+Hallelujah);
+}
+
+h1 {
+    font-family:"Gloria Hallelujah";
+    font-size: 60px;
+}
+
+p {
+    font-family:"Ballet";
+    font-size: 30px;
+}

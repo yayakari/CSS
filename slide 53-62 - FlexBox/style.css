@@ -28,9 +28,18 @@ div.facebook {
     background: url(social-sprite.png) 0px -84px;
     /* order: 1; */
 }
+div.facebook:hover {
+    background: url(social-sprite.png) 0px 0px;
+    /* order: 1; */
+}
 
 div.twitter {
     background: url(social-sprite.png) 252px -84px;
+    /* align-self: flex-end; */
+    /* order: 2; */
+}
+div.twitter:hover {
+    background: url(social-sprite.png) 252px 0px;
     /* align-self: flex-end; */
     /* order: 2; */
 }
@@ -39,8 +48,16 @@ div.youtube {
     background: url(social-sprite.png) 84px -84px;
     /* order: 3; */
 }
+div.youtube:hover {
+    background: url(social-sprite.png) 84px 0px;
+    /* order: 3; */
+}
 
 div.linkedin {
     background: url(social-sprite.png) 588px -84px;
+    /* order: 4; */
+}
+div.linkedin:hover {
+    background: url(social-sprite.png) 588px 0px;
     /* order: 4; */
 }

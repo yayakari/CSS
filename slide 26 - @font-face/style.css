@@ -1,0 +1,8 @@
+@font-face{
+    font-family: "Ma Super Police";
+    src: url("font/MaSuperPolice.ttf");
+    }
+    h1{
+    font-family: 'Ma Super Police', monospace;
+    font-size: 60px;
+    }

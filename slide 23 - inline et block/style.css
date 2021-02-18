@@ -1,0 +1,17 @@
+b {
+    border: 1px solid red;
+    /* display:block; */
+}
+
+span {
+    background-color: pink;
+    /* display: block; */
+}
+
+p {
+    border: 1px solid green;
+}
+
+div {
+    background-color: lightgrey;
+}

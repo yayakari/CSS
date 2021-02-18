@@ -1,0 +1,56 @@
+.social a {
+    display: inline-block;
+    height: 84px;
+    width: 84px;
+}
+
+.facebook {
+    background: url('social-sprite.png') 0px 0px ;  
+  }
+
+  .facebook:hover {
+      background-position: 0 -84;
+  }
+
+.twitter {
+    background: url('social-sprite.png') 252px 0px;
+}
+
+.twitter:hover {
+    background-position: 252px -84px;
+}
+.youtube {
+    background: url('social-sprite.png') 84px 0px;
+}
+
+.youtube:hover {
+    background-position: 84px -84px;
+}
+.linkedin {
+    background: url('social-sprite.png') -336px 0px;
+}
+
+.linkedin:hover {
+    background-position: -336px -84px;
+}
+.pinterest {
+    background: url('social-sprite.png') -420px 0px;
+}
+
+.pinterest:hover {
+    background-position: -420px -84px;
+}
+.rss {
+    background: url('social-sprite.png') 420px 0px;
+}
+
+.rss:hover {
+    background-position: 420px -84px;
+}
+
+.skype {
+    background: url('social-sprite.png') 336px 0px;
+}
+
+.skype:hover {
+    background-position: 336px -84px;

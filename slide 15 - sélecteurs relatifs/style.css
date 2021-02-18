@@ -1,0 +1,8 @@
+body, div {
+    color: #000000;
+    background-color: lightgrey;
+}
+
+#conteneur p {
+    color: red;
+}

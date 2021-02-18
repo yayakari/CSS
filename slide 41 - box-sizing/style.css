@@ -1,0 +1,27 @@
+div {
+    width: 500px;
+    background-color: lightgrey;
+}
+
+h2 {
+    width: 400px;
+    background-color: lightseagreen;
+    border: 2px solid rgb(4, 26, 48);
+}
+
+.para1{
+    width: 500px;
+    border: 3px solid red;
+    background-color: saddlebrown;
+    padding: 15px;
+}
+.para2{
+    width: 500px;
+    border: 3px solid rgba(94, 255, 0, 0.671);
+    background-color: rgb(139, 19, 133);
+    margin: 15px;
+}
+
+.box {
+    box-sizing:border-box
+}
